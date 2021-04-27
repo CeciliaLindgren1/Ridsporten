@@ -4,12 +4,18 @@ h1{
   background-color: #1e7b1e;
 }
 
+.meny a{
+text-decoration: none;
+color: black;
+background-color: lightgrey;
+}
 
-a{
+.knapp a{
   text-decoration: none;
   color: black;
-
+  background-color: lightgrey;  
 }
+
 * {box-sizing:border-box}
 
 /*dropdown menyn*/
