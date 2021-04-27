@@ -8,12 +8,16 @@ h1{
 text-decoration: none;
 color: black;
 background-color: lightgrey;
+font-size: 25px;
+font-family: times;
 }
 
 .knapp a{
   text-decoration: none;
   color: black;
   background-color: lightgrey;
+  font-size: 20px;
+  font-family: times;
 }
 
 * {box-sizing:border-box}
@@ -28,6 +32,8 @@ background-color: lightgrey;
   font-size: 16px;
   border: none;
   cursor: pointer;
+  font-family: times;
+  font-size: 25px;
 }
 
 /* Dropdown button on hover & focus */
