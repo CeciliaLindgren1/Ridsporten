@@ -3,6 +3,12 @@ h1{
   background-color: #1e7b1e;
 }
 
+
+a{
+  text-decoration: none;
+  color: black;
+  text-align: center;
+}
 * {box-sizing:border-box}
 
 /* Slideshow container */
