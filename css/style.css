@@ -15,6 +15,8 @@ font-size: 25px;
 font-family: times;
 }
 
+.meny a:hover {background-color: grey;}
+
 .knapp a{
   text-decoration: none;
   color: black;
@@ -22,6 +24,8 @@ font-family: times;
   font-size: 20px;
   font-family: times;
 }
+
+.knapp a:hover {background-color: grey;}
 
 * {box-sizing:border-box}
 
