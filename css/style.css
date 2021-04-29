@@ -24,7 +24,10 @@ font-size: 25px;
 font-family: times;
 }
 
-.meny a:hover {background-color: grey;}
+.meny a:hover {
+  background-color: grey;
+  padding: 20px;
+}
 
 .knapp a{
   text-decoration: none;
