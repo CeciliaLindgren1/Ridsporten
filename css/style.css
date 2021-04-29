@@ -38,10 +38,8 @@ font-family: times;
   padding:20px;
 }
 
-.knapp{
-
-}
 .knapp a:hover {background-color: grey;}
+
 
 /*
 * {box-sizing:border-box}
