@@ -5,6 +5,13 @@ h1{
   padding: 40px;
 }
 
+nav{
+  text-align:center;
+}
+
+section{
+  text-align: right;
+}
 .meny{
 background-color: lightgrey;
 padding: 20px;
@@ -28,6 +35,9 @@ font-family: times;
   padding:20px;
 }
 
+.knapp{
+
+}
 .knapp a:hover {background-color: grey;}
 
 /*
