@@ -30,6 +30,7 @@ font-family: times;
 
 .knapp a:hover {background-color: grey;}
 
+/*
 * {box-sizing:border-box}
 
 /*dropdown menyn*/
@@ -80,6 +81,7 @@ font-family: times;
 
 /*bildspelet*/
 
+/*
 * {box-sizing:border-box}
 /* Slideshow container */
 .slideshow-container {
