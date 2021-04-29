@@ -2,6 +2,7 @@
 h1{
   text-align: center;
   background-color: #1e7b1e;
+  padding: 40px;
 }
 
 .meny{
@@ -35,7 +36,7 @@ font-family: times;
 .dropbtn {
   background-color: lightgrey;
   color: black;
-  padding: 16px;
+  padding: 0.25px;
   font-size: 16px;
   border: none;
   font-family: times;
