@@ -1,3 +1,5 @@
+/*placeringen av allt på sidorna*/
+
 .container{
   display: grid;
   grid-template-columns: repeat(5,100fr);

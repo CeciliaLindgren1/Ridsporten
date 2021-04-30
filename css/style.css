@@ -5,6 +5,7 @@ h1{
   padding: 40px;
 }
 
+/*text placering*/
 nav{
   text-align:center;
 }
@@ -21,6 +22,7 @@ section{
 text-align: center;
 }
 
+/*styling*/
 .meny{
 background-color: lightgrey;
 padding: 20px;
