@@ -1,10 +1,15 @@
 /*textdekorationer*/
-h1{
+.heading1{
   text-align: center;
-  background-color: #1e7b1e;
-  padding: 40px;
+  background-color: #bf80ff;
+  padding: 29px;
 }
 
+.heading2{
+  text-align: center;
+  background-color: #ffb3da;
+  padding: 29px;
+}
 /*text placering*/
 nav{
   text-align:center;
@@ -12,6 +17,10 @@ nav{
 
 section{
   text-align: right;
+}
+
+body{
+  background-color: #e6f2ff;
 }
 
 .info{
@@ -24,33 +33,33 @@ text-align: center;
 
 /*styling*/
 .meny{
-background-color: lightgrey;
+background-color: #b3d9ff;
 padding: 20px;
 }
 
 .meny a{
 text-decoration: none;
 color: black;
-background-color: lightgrey;
+background-color: #b3d9ff;
 font-size: 25px;
 font-family: times;
 }
 
 .meny a:hover {
-  background-color: grey;
+  background-color: #99ccff;
   padding: 20px;
 }
 
 .knapp a{
   text-decoration: none;
   color: black;
-  background-color: lightgrey;
+  background-color: #b3d9ff;
   font-size: 20px;
   font-family: times;
   padding:20px;
 }
 
-.knapp a:hover {background-color: grey;}
+.knapp a:hover {background-color: #99ccff;}
 
 
 /*
@@ -60,7 +69,7 @@ font-family: times;
 
 /* Dropdown Button */
 .dropbtn {
-  background-color: lightgrey;
+  background-color: #b3d9ff;
   color: black;
   padding: 20px;
   font-size: 16px;
@@ -94,13 +103,13 @@ font-family: times;
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: grey;}
+.dropdown-content a:hover {background-color: #99ccff;}
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: grey;}
+.dropdown:hover .dropbtn {background-color: #99ccff;}
 
 /*bildspelet*/
 
