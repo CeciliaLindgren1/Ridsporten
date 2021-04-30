@@ -12,10 +12,16 @@ nav{
 section{
   text-align: right;
 }
+
+.test{
+text-align: center;
+}
+
 .meny{
 background-color: lightgrey;
 padding: 20px;
 }
+
 .meny a{
 text-decoration: none;
 color: black;
