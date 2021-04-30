@@ -27,7 +27,12 @@ footer{
   grid-column: 5/-1;
   grid-row: 4/5;
 }
-
+/*
+.test{
+  grid-column: ;
+  grid-row: ;
+}
+*/
 .fint{
   grid-column: 1/2;
   grid-row: 2/3;
