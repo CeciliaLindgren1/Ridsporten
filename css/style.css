@@ -61,6 +61,20 @@ font-family: times;
 
 .knapp a:hover {background-color: #99ccff;}
 
+.knapp{
+  margin-bottom: inherit;
+}
+.vardag{
+  text-align: center;
+}
+
+.stallet{
+  text-align: center;
+}
+
+.rutiner{
+  text-align: center;
+}
 
 /*
 * {box-sizing:border-box}
