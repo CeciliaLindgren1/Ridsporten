@@ -81,12 +81,18 @@ header{
 footer{
   grid-column: 9/-1;
 }
-.fint{
-  grid-column: 1/-1;
 
-}
+
 .vardag{
-  grid-column: 1/-1
+grid-column: 3/11;
 }
 
+.nina{
+grid-column: 3/8;
+}
+
+.rutiner{
+  grid-column: 1/2;
+  grid-row: 4/5;
+}
 }

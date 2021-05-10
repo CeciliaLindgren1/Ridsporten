@@ -235,3 +235,43 @@ text-align: right;
   from {opacity: .4}
   to {opacity: 1}
 }
+
+@media only screen and (max-width: 450px) {
+
+.fint{
+  width: 100px;
+}
+
+.nina{
+  width: 175px;
+}
+
+.viggan{
+  width: 100px;
+}
+
+.vardag{
+  font-size: 10px;
+}
+
+.stallet{
+  font-size: 10px;
+}
+
+.rutiner{
+  font-size: 10px;
+}
+
+.knapp a{
+  font-size: 10px;
+}
+
+.test{
+  font-size: 10px;
+}
+
+.info{
+  font-size: 10px;
+}
+
+}
