@@ -62,7 +62,7 @@ font-family: times;
 .knapp a:hover {background-color: #99ccff;}
 
 .knapp{
-  margin-bottom: inherit;
+text-align: right;
 }
 .vardag{
   text-align: center;
@@ -76,6 +76,21 @@ font-family: times;
   text-align: center;
 }
 
+.bild{
+  width: 100%;
+}
+
+.nina{
+  width: 350px;
+}
+
+.viggan{
+  width: 300px;
+}
+
+.fint{
+  width: 300px;
+}
 /*dropdown menyn*/
 
 /* Dropdown Button */

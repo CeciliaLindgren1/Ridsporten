@@ -24,6 +24,9 @@ section{
 footer{
   grid-column: 11/-1;
   grid-row: 5/6;
+  align-self: end;
+
+
 }
 
 .test{
