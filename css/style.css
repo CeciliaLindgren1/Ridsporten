@@ -250,22 +250,23 @@ text-align: right;
   width: 100px;
 }
 
+
 .vardag{
-  font-size: 10px;
+  font-size: 12px;
 }
 
 .stallet{
-  font-size: 10px;
+  font-size: 12px;
 }
 
 .rutiner{
-  font-size: 10px;
+  font-size: 12px;
 }
 
 .knapp a{
   font-size: 10px;
 }
-
+/*
 .test{
   font-size: 10px;
 }
@@ -273,5 +274,5 @@ text-align: right;
 .info{
   font-size: 10px;
 }
-
+*/
 }
