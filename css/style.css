@@ -239,15 +239,15 @@ text-align: right;
 @media only screen and (max-width: 450px) {
 
 .fint{
-  width: 100px;
+  width: 100%;
 }
 
 .nina{
-  width: 175px;
+  width: 100%;
 }
 
 .viggan{
-  width: 100px;
+  width: 100%;
 }
 
 .vardag{

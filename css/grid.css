@@ -91,16 +91,18 @@ section{
 }
 
 .vardag{
-grid-column: 3/11;
+grid-column: 4/10;
 }
 
 .nina{
-grid-column: 3/8;
+grid-column: 4/10;
 }
 
 .rutiner{
-  grid-column: 1/2;
-  grid-row: 4/5;
+  grid-column: 1/4;
 }
 
+.stallet{
+  grid-column: 10/-1;
+}
 }
